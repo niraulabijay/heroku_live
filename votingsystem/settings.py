@@ -89,7 +89,7 @@ WSGI_APPLICATION = 'votingsystem.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'voting',
+        'NAME': 'voteanything_db',
         'USER': 'voteanything_hellonep',
         'PASSWORD': 'vjA@JB2BxDn^',
         'HOST': 'http://voteanything.com',
